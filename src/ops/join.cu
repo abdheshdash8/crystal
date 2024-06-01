@@ -6,8 +6,8 @@
 #include <curand.h>
 
 #include <cuda.h>
-#include <cub/util_allocator.cuh>
-#include "cub/test/test_util.h"
+#include <cccl/cub/util_allocator.cuh>
+#include "cccl/cub/test/test_util.h"
 
 #include "crystal/crystal.cuh"
 
